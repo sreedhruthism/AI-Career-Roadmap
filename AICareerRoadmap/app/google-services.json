@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010983621398",
+    "project_id": "ai-career-road-map",
+    "storage_bucket": "ai-career-road-map.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010983621398:android:23a3169c27f4da4adff637",
+        "android_client_info": {
+          "package_name": "sunaina.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010983621398-8bd6ia7vp8c46jebbtuq3kjo0qo50ofh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Lr2kUI_N5v0IUThepI-lD-Wx7AruESw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010983621398-8bd6ia7vp8c46jebbtuq3kjo0qo50ofh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
